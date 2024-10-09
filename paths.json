@@ -1,8 +1,7 @@
 {
   "mappings": [
-    "/content/xsc-xwalk-site/:/",
-    "/content/xsc-xwalk-site/metadata.json:/metadata.json",
-    "/content/xsc-xwalk-site/redirects.json:/redirects.json",
-    "/content/xsc-xwalk-site/configuration.json:/configuration.json"
+    "/content/kumarpradeep/EDS_CROSSWALK_PRADEEP/:/",
+    "/content/kumarpradeep/EDS_CROSSWALK_PRADEEP/metadata.json:/metadata.json",
+    "/content/kumarpradeep/EDS_CROSSWALK_PRADEEP/redirects.json:/redirects.json"
   ]
 }
